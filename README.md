@@ -30,6 +30,6 @@ The application currently focuses on providing accurate temperature and location
 
 ---
 
-<img src="Screenshot/Weather.jpg" width="300",height=150>
+<img src="Screenshot/Weather.jpg" width="200">
 
 
